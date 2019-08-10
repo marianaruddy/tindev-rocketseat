@@ -1,0 +1,8 @@
+{
+  "name": "tindev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marianaruddy/tindev-rocketseat.git",
+  "author": "marianaruddy <marianamrsantos@gmail.com>",
+  "license": "MIT"
+}
